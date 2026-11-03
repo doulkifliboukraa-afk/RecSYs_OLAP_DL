@@ -1,4 +1,4 @@
-# Reproducing the evaluation (RecSys ESI)
+# Reproducing the evaluation
 
 Requirements: Python 3, numpy, scipy, openpyxl.
 
